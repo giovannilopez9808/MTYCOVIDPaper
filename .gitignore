@@ -1,0 +1,15 @@
+__pycache__/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.log
+*.out
+*.toc
+*eps-converted-to.pdf
+*.spl
+*.dvi
+indent.log
+*.tif
